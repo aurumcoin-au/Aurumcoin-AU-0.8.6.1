@@ -42,4 +42,4 @@ addnode=88.206.186.58
 addnode=188.254.214.231
 addnode=80.141.85.107
 addnode=83.177.155.62
-addnode=91.121.221.92# Aurumcoin-AU-0.8.6.1
+addnode=91.121.221.92
